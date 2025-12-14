@@ -69,8 +69,6 @@ ace-dashboard/
 
 ## 🔗 Google Sheets 連接
 
-試算表 ID：`1OMjAbOwTssGqKHBC0oM-C-ds17MgMQbPsWCfH2bemjY`
-
 ### 工作表結構
 1. **身分數據**：A欄（身分）、Y欄（填答時間）
 2. **臺大教職員工數據庫**：E欄（身分）、R欄（填答時間）
